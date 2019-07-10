@@ -1,0 +1,59 @@
+#header {
+    margin-top: 100px;
+    width: 100%;
+    height: 400px;
+    background-color: white;
+}
+
+#instructions {
+    color: red;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 150px;
+    font-size: 25px;
+}
+
+.headerSection {
+    width: 33%;
+    display: inline-block;
+}
+
+#headerLeft {
+    float: left;
+}
+
+#headerMiddle {
+    text-align: center;
+}
+
+#headerRight {
+    float: right;
+}
+
+#nbalogo {
+    height: 200px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 5%;
+}
+
+#nbalogo2 {
+    height: 200px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 5%;
+}
+
+@media (max-width: 500px) {
+    #nbalogo {
+        height: 100px;
+    }
+
+    #nbalogo2 {
+        height: 100px;
+    }
+
+    #instructions {
+        font-size: 18px;
+    }
+  }
+  

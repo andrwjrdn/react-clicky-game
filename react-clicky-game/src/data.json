@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/stephcurry.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/lebronjames.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/kevindurant.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/jamesharden.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/kobebryant.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/anthonydavis.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/kawhileonard.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/russellwestbrook.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/michaeljordan.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/damianlillard.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/kyrieirving.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/klaythompson.jpg",
+      "clicked": false
+    }
+  ]
+  

@@ -24,13 +24,6 @@ Once a player has been clicked, it may not be picked again until all 12 players 
 - CSS
 
 
-### Prerequisites
-
-```
-- Node.js - Download the latest version of Node https://nodejs.org/en/
-- Create a MYSQL database called 'Bamazon', reference schema.sql
-```
-
 
 ## Authors
 

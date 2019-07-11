@@ -12,11 +12,8 @@ Once a player has been clicked, it may not be picked again until all 12 players 
 
 ## Screenshots/Demo
 
-* BamazonCustomer.js (https://www.youtube.com/watch?v=p-QBusgtjKE)
+<img width="1142" alt="clicky-game copy" src="https://user-images.githubusercontent.com/43662571/61015133-3e008780-a33f-11e9-93f5-81ae13054f07.png">
 
-* BamazonManager.js (https://www.youtube.com/watch?v=Go828nrwaLY)
-
-* ExecutiveManager.js (https://www.youtube.com/watch?v=W6P2YpXGDq8)
 
 ## Technologies used
 - React
